@@ -201,10 +201,3 @@ This project is open-source and available under the MIT License.
 
 ---
 
-## 💡 Author
-
-Developed as an AI + Computer Vision + RAG integration project to demonstrate real-time intelligent systems.
-
----
-
-⭐ If you like this project, consider starring the repo!
